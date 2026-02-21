@@ -1,4 +1,4 @@
-package graphs;
+package coding.graphs;
 import java.net.SocketPermission;
 import java.util.*;
 

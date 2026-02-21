@@ -1,4 +1,4 @@
-package graphs;
+package coding.graphs;
 import java.util.*;
 public class kahnsAlg {
     public static void main(String[] args) {

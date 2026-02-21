@@ -1,4 +1,4 @@
-package cp31;
+package coding.cp31;
 import java.util.*;
 
 public class cp13 {

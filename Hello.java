@@ -1,3 +1,4 @@
+package coding;
 
 public class Hello {
     public static void main(String[] args) {

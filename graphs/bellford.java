@@ -1,4 +1,4 @@
-package graphs;
+package coding.graphs;
 import java.util.*;
 public class bellford {
     public static void main(String[] args){

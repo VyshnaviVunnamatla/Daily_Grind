@@ -1,3 +1,4 @@
+package coding;
 public class primefact {
     public static void main(String[] args) {
         int n=21;

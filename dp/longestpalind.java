@@ -1,4 +1,4 @@
-package dp;
+package coding.dp;
 
 public class longestpalind {
     public static void main(String[] args) {

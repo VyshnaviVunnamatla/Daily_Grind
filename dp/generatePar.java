@@ -1,4 +1,4 @@
-package dp;
+package coding.dp;
 import java.util.*;
 public class generatePar {
     public static void main(String[] args) {

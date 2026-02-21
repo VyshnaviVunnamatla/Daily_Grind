@@ -1,4 +1,4 @@
-package greedy;
+package coding.greedy;
 import java.util.*;
 public class jumpgame {
     public static void main(String[] args) {
