@@ -7,6 +7,6 @@ public class generatePar {
     }
     public static List<String> fn(int n){
         StringBuilder sb=new StringBuilder();
-        return 
+        return null;
     }
 }

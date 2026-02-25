@@ -26,6 +26,6 @@ public class TreeEdgeFlipping {
     public static TreeNode buildTree(int[] par,int[] vals){
         Map<Integer,TreeNode> mp=new HashMap<>();
         
-        return root;
+        return null;
     }
 }
